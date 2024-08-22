@@ -68,6 +68,39 @@ public class PayrollProgram {
             weeklyPay = hoursWorked
 
 
+
+                NOTE: use 1 "if else" statement
+                use printf for outputting
+
+
+                othrs = hrsworked - 40
+                otpay = othrs * payrate * 1.5
+                regpay = payrate * 40;
+
+            else 
+            system println no overtime
+            ot hours 0 
+            ot pay 0
+            regpay = hrsworked * payrate
+
+            system.out.printf (\n ot hours =)
+            printf (%, .2f, otpay and othours
+            system.out.println()
+
+double totalhrsworked
+double otpay
+double othours
+double payrate
+double weeklyhours
+double regular pay
+double regular hours
+double total pay
+
+
+
+            
     }
+
+    
 
 
